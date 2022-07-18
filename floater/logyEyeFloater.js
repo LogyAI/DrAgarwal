@@ -58,7 +58,7 @@
 
 
 
-document.body.innerHTML+=`<a href="https://logy.ai/" target='_blank'>
+document.body.innerHTML+=`<a href="https://logy.ai/DrAgarwal" target='_blank'>
 <div 
 style="
 position: fixed;
@@ -71,9 +71,9 @@ z-index: 100;
 <div id="blurBg"></div>
 <div id="whiteBg"></div>
 <div id="scan"></div>
-<img style="position: absolute;left:39px;top: 44px;width: 20px;z-index:1" src="drAEye.png" alt="">
-<img id='touch' style="position: absolute;left:30px;top: 72px;width: 44px" src="touch.svg" alt="">
-<img id="text" src="drA.svg" alt="">
+<img style="position: absolute;left:39px;top: 44px;width: 20px;z-index:1" src="https://logy.ai/DrAgarwal/floater/drAEye.png" alt="">
+<img id='touch' style="position: absolute;left:30px;top: 72px;width: 44px" src="https://logy.ai/DrAgarwal/floater/touch.svg" alt="">
+<img id="text" src="https://logy.ai/DrAgarwal/floater/drA.svg" alt="">
 <style>
 #text{
     position: absolute;
