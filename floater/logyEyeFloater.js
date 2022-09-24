@@ -10,7 +10,7 @@ id="floaterMain"
 <img id="text" src="https://logy.ai/DrAgarwal/floater/drA.svg" alt="">
 <style>
 
-@media screen and (min-width: 601px) {
+
     #floaterMain{
         position: fixed;
         top: 50vh;
@@ -85,7 +85,7 @@ id="floaterMain"
             transform: scale(1);
         }
     }
-}
+
 @media screen and (max-width: 600px) {
 #floaterInstructions{
     display: none;
@@ -170,5 +170,3 @@ id="floaterMain"
 </a>
 
 `
-
-
